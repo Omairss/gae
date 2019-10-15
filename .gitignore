@@ -2,6 +2,8 @@
 *.pyc
 build/
 dist/
+data/
+gae/intermediate_pkl
 data_aminer/
 *.egg-info/
 *.ipynb_checkpoints
